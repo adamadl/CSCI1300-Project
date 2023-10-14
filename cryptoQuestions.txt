@@ -1,0 +1,23 @@
+What is the most popular crypto currency currently on the market?/bitcoin
+What specific technology does bitcoin use?/a. Gossip Protocol/b. Blockchain technology/c. Distributive Ledger/d. Whatever the economy is using/b
+How many crypto currencies are there?/a. Between 50 and 100/b. Between 100 and 1000/c. Between 1000 and 10000/d. More than 10000./d
+Is Bitcoin limited or unlimited?/limited
+Crypto mining is…/a. Using programs to stimulate blockchain which makes money/b. Pick and shovel in a mine to get resources which are swapped for crypto./c. Computers solving math problems to a complicated problem to add a transaction into the blockchain/d. All of the above/c
+What is soft-forking?/a. Temporary divergence in the blockchain caused when more than one computer adds a block to the blockchain at the same time/b. A special program used in crypto mining/c. Permanent change to one ledger that is not updated in other ledgers/d. When many time stamped transactions are stuffed into the blockchain/a
+Once information has been stored on a distributed ledger, when can it be removed?/a. After another block is added to the blockchain/b. After the blockchain has soft-forked/c. When a computer is done mining/d. Never/d
+Blockchain creates “____” filled with transactions strung together and distributed to every computer system on the blockchain./blocks
+Ledgers are a record of _______./transactions
+The IRS treats crypto as a.../a. Ordinary asset/b. Income/c. Capital asset/d. Gift/c
+True or False: bitcoin mining is energy efficient./false
+True or False: Cryptocurrency accounts are insured by the U.S. government like U.S. dollar deposits./false
+Who played a key role in the blow up and rise in popularity of Dogecoin?/elon musk
+What year did Satoshi Nakamoto released the paper creating the idea of “internet money”?/2008
+What year was there the first transaction of bitcoin?/2009
+As of november 2021, Forbes lists these as the top 3 coins:/a. 1. Bitcoin 2. Binance Coin 3. Dogecoin/b. 1. Bitcoin 2. Ethereum 3. Tether/c. 1. Bitcoin 2. Binance Coin 3. Cardano/d. 1. Bitcoin 2. Ethereum 3. Binance Coin/d
+To prevent soft-forking, the complexity of the math problems is increased which.../a. Decreases the probability for multiple computers to find the answer and increases the time it takes for blocks to be added to the blockchain/b. Increases the probability for multiple computers to find the answer and increases the time it takes for blocks to be added to the blockchain/c. Decreases the probability for multiple computers to find the answer and decreases the time it takes for blocks to be added to the blockchain/d. Increases the probability for multiple computers to find the answer and decreases the time it takes for blocks to be added to the blockchain/a
+How long does it take to solve the problem to add to the blockchain?/a. Couple seconds/b. 1 to 10 minutes/c. 10 minutes to an hour/d. More than an hour/c
+True or False: Crypto are physical currencies/false
+What is a NFT?/a. Non-Forkable Text/b. Nested Formable Token/c. Niche Filled Technology/d. Non-Fungible Token/d
+Which country has Bitcoin as their national currrency?/a. El Salvador/b. Nigeria/c. Japan/d. Egypt/a
+How much was the most expensive NFT sold for?(yes the recent weird one)/a. 5 million/b. 11 million/c. 127 million/d. 532 million/d
+When were NFTs invented?/a. 2005/b. 2012/c. 2015/d. 2019/b
