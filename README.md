@@ -2,6 +2,7 @@
 
 ## HOW TO COMPILE AND RUN
 Compile: g++ -std=c++11 jeopardyDriver.cpp Questions.cpp Scoreboard.cpp Category.cpp Map.cpp Leaderboard.cpp
+
 Run: ./a.out
 
 ## DEPENDENCIES
