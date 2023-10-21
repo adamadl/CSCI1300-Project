@@ -11,8 +11,11 @@ order to compile.
 
 ## SUBMISSION INFORMATION
 CSCI1300 Fall 2021 Project 3
+
 Authors: Adam Adl and Sena Uctuk
+
 Recitation: 216 - Pragna Mandadi
+
 Date: December 1, 2021
 
 ## ABOUT THIS PROJECT
